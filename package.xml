@@ -15,7 +15,7 @@
   <depend>ffmpeg_image_transport</depend>
   <depend>ffmpeg_image_transport_msgs</depend>
   <depend>flex_sync</depend>
-  <depend>opencv</depend>
+  <depend>libopencv-dev</depend>
   <depend>rosbag</depend>
   <depend>cv_bridge</depend>
   <export>
